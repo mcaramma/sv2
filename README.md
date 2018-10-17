@@ -30,8 +30,6 @@ TODO
 - fdw: oracle, db2, sqlserver, hadoop, cassandra, hive, ...
 
 External tools
-- API:
-  - [PostGraphile](https://github.com/graphile/postgraphile)([docker](https://github.com/graphile/postgraphile#docker))
 - GUI:
   - [OmniDB](https://www.2ndquadrant.com/en/resources/omnidb/) ([docker](https://hub.docker.com/r/wiremind/omnidb/))
   - [pgAdmin4](https://www.pgadmin.org/) ([docker](https://hub.docker.com/r/dpage/pgadmin4/))
@@ -45,10 +43,12 @@ External tools
 - BI:
   - [2UDA](https://www.2ndquadrant.com/en/resources/2uda/)
   - [Orange](https://orange.biolab.si/)
-  - [RStudio](https://www.rstudio.com/)([docker](https://hub.docker.com/r/rocker/rstudio/))
+  - [RStudio](https://www.rstudio.com/) ([docker](https://hub.docker.com/r/rocker/rstudio/))
 - AI/NN/NLP with GPU/CUDA:
   - [PyTorch](https://github.com/pytorch/pytorch)
   - [AllenNLP](https://allennlp.org/)
   - [FastAI](http://www.fast.ai/)
 - Fuzzy/Full-Text:
   - [ElasticSearch](https://www.elastic.co/) ([docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)/[bitnami](https://hub.docker.com/r/bitnami/elasticsearch/))
+- GraphQL:
+  - [PostGraphile](https://github.com/graphile/postgraphile) ([docker](https://github.com/graphile/postgraphile#docker))
