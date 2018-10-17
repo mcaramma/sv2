@@ -25,6 +25,7 @@ Experimenting with [EdgeDB](https://edgedb.com/) on top of [AgensGraph](https://
 - pgtop
 
 TODO
+- [PipelineDB 1.0.0](https://github.com/pipelinedb/pipelinedb/issues/1940)
 - edgedb-jdbc? (maybe on top of [agensgraph-jdbc](https://github.com/bitnine-oss/agensgraph-jdbc))
   - pgsql wire protocol v3 not supported ([see here](https://github.com/edgedb/edgedb/issues/236))
 - fdw: oracle, db2, sqlserver, hadoop, cassandra, hive, ...
