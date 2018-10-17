@@ -12,6 +12,7 @@ Experimenting with [EdgeDB](https://edgedb.com/) on top of [AgensGraph](https://
 - ldap
 - gssapi
 - kerberos
+- [pg_cron](https://github.com/citusdata/pg_cron)
 - [plr](https://github.com/postgres-plr/plr.git)
 - [plv8](https://plv8.github.io/)
 - pltcl
