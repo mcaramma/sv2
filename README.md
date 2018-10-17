@@ -53,3 +53,5 @@ External tools
   - [ElasticSearch](https://www.elastic.co/) ([docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)/[bitnami](https://hub.docker.com/r/bitnami/elasticsearch/))
 - GraphQL:
   - [PostGraphile](https://github.com/graphile/postgraphile) ([docker](https://github.com/graphile/postgraphile#docker))
+- HA:
+  - [Stolon](https://github.com/sorintlab/stolon)
