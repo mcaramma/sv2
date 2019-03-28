@@ -55,7 +55,7 @@ External tools
   - [AllenNLP](https://allennlp.org/)
   - [FastAI](http://www.fast.ai/)
 - Fuzzy/Full-Text:
-  - [ElasticSearch](https://www.elastic.co/) ([docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)/[bitnami](https://hub.docker.com/r/bitnami/elasticsearch/))
+  - [ElasticSearch](https://www.elastic.co/) ([docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)/[bitnami](https://hub.docker.com/r/bitnami/elasticsearch/)/[opendistro](https://hub.docker.com/r/amazon/opendistro-for-elasticsearch))
 - GraphQL:
   - [Hasura](https://hasura.io/) ([docker](https://docs.hasura.io/1.0/graphql/manual/getting-started/docker-simple.html))
   - [PostGraphile](https://github.com/graphile/postgraphile) ([docker](https://github.com/graphile/postgraphile#docker))
