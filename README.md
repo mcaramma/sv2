@@ -63,6 +63,7 @@ External tools
   - [PostDock](https://github.com/paunin/PostDock)
     ([watchdog](https://github.com/yucigou/PostDock/tree/watchdog))
   - [Stolon](https://github.com/sorintlab/stolon)
+  - [repmgr](https://repmgr.org/)
 - ETL:
   - [pgloader](https://pgloader.io/) ([docker](https://hub.docker.com/r/dimitri/pgloader/))
   - [Hindsight](https://github.com/mozilla-services/hindsight) ([docker](https://hub.docker.com/r/mozilla/lua_sandbox_extensions/))
