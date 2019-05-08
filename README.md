@@ -64,6 +64,7 @@ External tools
     ([watchdog](https://github.com/yucigou/PostDock/tree/watchdog))
   - [Stolon](https://github.com/sorintlab/stolon)
   - [repmgr](https://repmgr.org/)
+  - [pg_auto_failover](https://cloudblogs.microsoft.com/opensource/2019/05/06/introducing-pg_auto_failover-postgresql-open-source-extension-automated-failover-high-availability/)
 - ETL:
   - [pgloader](https://pgloader.io/) ([docker](https://hub.docker.com/r/dimitri/pgloader/))
   - [Hindsight](https://github.com/mozilla-services/hindsight) ([docker](https://hub.docker.com/r/mozilla/lua_sandbox_extensions/))
