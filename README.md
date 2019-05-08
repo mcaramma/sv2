@@ -46,6 +46,7 @@ External tools
   - [pgmetrics](https://pgmetrics.io/) ([docker](https://hub.docker.com/r/rapidloop/pgmetrics/))
 - Backup:
   - [pgbarman](https://www.pgbarman.org/) ([docker](https://hub.docker.com/r/centerforopenscience/barman/))
+  - [pgBackRest](https://pgbackrest.org/)
 - BI:
   - [2UDA](https://www.2ndquadrant.com/en/resources/2uda/)
   - [Orange](https://orange.biolab.si/)
