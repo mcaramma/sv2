@@ -21,7 +21,6 @@ Experimenting with [EdgeDB](https://edgedb.com/) on top of [AgensGraph](https://
 - plpython
   - fdw: [multicorn+sqlalchemy-fdw](https://multicorn.org/sqlalchemy-fdw/)
   - machine learning / data analysis / deep learning: [scikit-learn](http://scikit-learn.org), [tensorflow](https://www.tensorflow.org), [pandas](https://pandas.pydata.org), [keras](https://keras.io)
-- [pgcenter](https://github.com/lesovsky/pgcenter)
 - pgtop
 
 TODO
@@ -44,6 +43,7 @@ External tools
   - [pgmonitor](https://github.com/CrunchyData/pgmonitor) ([docker](https://hub.docker.com/r/theborakompanioni/pgmonitor/))
   - [pgwatch2](https://www.cybertec-postgresql.com/en/next-feature-release-for-the-pgwatch2-monitoring-tool/) ([docker](https://hub.docker.com/r/cybertec/pgwatch2-nonroot/))
   - [pgmetrics](https://pgmetrics.io/) ([docker](https://hub.docker.com/r/rapidloop/pgmetrics/))
+  - [pgcenter](https://github.com/lesovsky/pgcenter) ([docker](https://github.com/lesovsky/pgcenter/blob/master/doc/examples.md#run-in-docker))
 - Backup:
   - [pgbarman](https://www.pgbarman.org/) ([docker](https://hub.docker.com/r/centerforopenscience/barman/))
   - [pgBackRest](https://pgbackrest.org/)
